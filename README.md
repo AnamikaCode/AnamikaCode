@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anamika Thakur
 - 👀 I’m Student in Computer Science
-- 🌱 I’m currently learning Android in kotlin,Angular
+- 🌱 I’m currently learning Reactjs,Mongodb
 - 💞️ In my free time. I solve DSA problem
 - 📫 Reach me on instagram:-anamika_thakur_18
 
